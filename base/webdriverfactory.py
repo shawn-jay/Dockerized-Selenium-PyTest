@@ -1,5 +1,5 @@
 from selenium import webdriver
-
+from selenium.webdriver.chrome.options import Options
 
 # Purpose fo this test case is to create a webdriver instance
 # based on the Browser configurations
@@ -13,12 +13,16 @@ class WebDriverFactory():
     def getWebDriverInstance(self):
         baseURL = "https://www.saucedemo.com/"
         driver = None
+        chrome_options = Options()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--no-sandbox")
+        chrome_options.add_argument("--disable-dev-shm-usage")
         print("Running one time setUp")
         if self.browser == 'firefox':
             driver = webdriver.Firefox()
             print("Running tests on FF")
         else:
-            driver = webdriver.Chrome()
+            driver = webdriver.Chrome(options=chrome_options)
             print("Running tests on Chrome")
 
         driver.maximize_window()
