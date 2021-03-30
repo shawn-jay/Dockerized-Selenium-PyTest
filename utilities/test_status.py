@@ -13,7 +13,7 @@ class TestStatus():
             if result is not None:
                 if result:
                     self.resultList.append("PASS")
-                    self.log.info("### VERIFICATION SUCCESSFUL :: + " + resultMessage)
+                    self.log.info("### VERIFICATION SUCCESSFUL ::")
                 else:
                     self.resultList.append("FAIL")
                     self.log.error("### VERIFICATION FAILED :: + " + resultMessage)
