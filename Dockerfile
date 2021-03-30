@@ -1,4 +1,4 @@
-FROM selenium/standalone-chrome
+FROM python:3.8-slim-buster
 MAINTAINER shawn.s.jafari@gmail.com
 COPY . /SeleniumFramework
 WORKDIR /SeleniumFramework
