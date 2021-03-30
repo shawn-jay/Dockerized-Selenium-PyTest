@@ -10,9 +10,7 @@ WORKDIR /SeleniumFramework
 #https://askubuntu.com/questions/198014/install-google-chrome-ubuntu-12-04-without-sudo
 RUN apt-get -y update
 RUN apt-get install curl
-RUN wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-RUN dpkg -i google-chrome-stable_current_amd64.deb
-#RUN apt-get install -y google-chrome-stable
+RUN apt-get install -y google-chrome-stable
 
 # install chromedriver
 RUN apt-get install -yqq unzip
