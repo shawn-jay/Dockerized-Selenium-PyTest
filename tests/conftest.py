@@ -13,7 +13,7 @@ def setUp():
 def oneTimeSetUp(request, browser):
 
     wdf = WebDriverFactory(browser)
-    driver = wdf.getWebDriverInstance()
+    driver = wdf.get_web_driver_instance()
 
     if request.cls is not None:
         request.cls.driver = driver

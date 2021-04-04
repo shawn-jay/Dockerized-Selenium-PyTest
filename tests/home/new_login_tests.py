@@ -14,5 +14,5 @@ class LoginTests2(unittest.TestCase):
     @pytest.mark.run(order=2)
     def test_validLogin(self):
         self.lp.login("standard_user", "secret_sauce")
-        result = self.lp.verifyLoginSuccessful()
+        result = self.lp.verify_login_successful()
         assert result == True

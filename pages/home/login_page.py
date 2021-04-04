@@ -15,38 +15,38 @@ class LoginPage(SeleniumDriver):
     _login_button = "btn_action"
 
     #action methods
-    def clickLoginLink(self):
-        self.elementClick(self._login_link, locatorType="link")
+    def click_login_link(self):
+        self.element_click(self._login_link, locatorType="link")
 
-    def enterEmail(self, email):
+    def enter_email(self, email):
         self.log.info("testing inheritance")
-        self.sendKeys(email, self._email_field)
+        self.send_keys(email, self._email_field)
 
-    def enterPassword(self, password):
-        self.sendKeys(password, self._password_field)
+    def enter_password(self, password):
+        self.send_keys(password, self._password_field)
 
-    def clickLoginButton(self):
-        self.elementClick(self._login_button, locatorType="class")
+    def click_login_button(self):
+        self.element_click(self._login_button, locatorType="class")
 
     def login(self, email="", password=""):
         #self.clickLoginLink()
         self.driver.refresh()
-        self.enterEmail(email)
-        self.enterPassword(password)
-        self.clickLoginButton()
+        self.enter_email(email)
+        self.enter_password(password)
+        self.click_login_button()
         time.sleep(2)
 
-    def verifyLoginSuccessful(self):
-        result = self.isElementPresent("//div[contains(text(), 'Labs Backpack')]", "xpath")
+    def verify_login_successful(self):
+        result = self.is_element_present("//div[contains(text(), 'Labs Backpack')]", "xpath")
         return result
 
-    def verifyLoginFailed(self):
-        result = self.isElementPresent("//h3[@data-test='error']", "xpath")
+    def verify_login_failed(self):
+        result = self.is_element_present("//h3[@data-test='error']", "xpath")
         return result
 
-    def verifyTitle(self, title):
-        if self.getTitle() == title:
+    def verify_title(self, title):
+        if self.get_title() == title:
             return True
         else:
-            self.log.info(str(self.getTitle()))
+            self.log.info(str(self.get_title()))
             return False

@@ -10,13 +10,15 @@ class WebDriverFactory():
     def __init__(self, browser):
         self.browser = browser
 
-    def getWebDriverInstance(self):
+    def get_web_driver_instance(self):
         baseURL = "https://www.saucedemo.com/"
         driver = None
         chrome_options = Options()
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--no-sandbox")
-        chrome_options.add_argument("--disable-dev-shm-usage")
+        dockerized = False
+        if(dockerized):
+            chrome_options.add_argument("--headless")
+            chrome_options.add_argument("--no-sandbox")
+            chrome_options.add_argument("--disable-dev-shm-usage")
         print("Running one time setUp")
         if self.browser == 'firefox':
             driver = webdriver.Firefox()
