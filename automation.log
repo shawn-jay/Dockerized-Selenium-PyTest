@@ -494,3 +494,71 @@
 04/04/2021 05:23:44 PM - SeleniumDriver - INFO: Element not found
 04/04/2021 05:23:44 PM - SeleniumDriver - INFO: Cannot click on the element with locator: btn_action locatorType: class
 04/04/2021 05:23:46 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/04/2021 05:52:44 PM - SeleniumDriver - INFO: testing inheritance
+04/04/2021 05:52:44 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/04/2021 05:52:44 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/04/2021 05:52:44 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/04/2021 05:52:45 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/04/2021 05:52:45 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/04/2021 05:52:45 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/04/2021 05:52:47 PM - SeleniumDriver - INFO: Element Found with locator: add-to-cart-sauce-labs-bike-light and locatorType: name
+04/04/2021 05:52:47 PM - SeleniumDriver - INFO: btn btn_primary btn_small btn_inventory
+04/04/2021 05:52:47 PM - SeleniumDriver - INFO: testing inheritance
+04/04/2021 05:52:50 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:52:50 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: user-name locatorType: id
+04/04/2021 05:52:53 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:52:53 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+04/04/2021 05:52:56 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:52:56 PM - SeleniumDriver - INFO: Cannot click on the element with locator: btn_action locatorType: class
+04/04/2021 05:52:58 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/04/2021 05:54:00 PM - SeleniumDriver - INFO: testing inheritance
+04/04/2021 05:54:00 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/04/2021 05:54:00 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/04/2021 05:54:00 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/04/2021 05:54:00 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/04/2021 05:54:00 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/04/2021 05:54:00 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/04/2021 05:54:02 PM - SeleniumDriver - INFO: Element Found with locator: add-to-cart-sauce-labs-bike-light and locatorType: name
+04/04/2021 05:54:02 PM - SeleniumDriver - INFO: btn btn_primary btn_small btn_inventory
+04/04/2021 05:54:02 PM - SeleniumDriver - INFO: testing inheritance
+04/04/2021 05:54:05 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:54:05 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: user-name locatorType: id
+04/04/2021 05:54:08 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:54:08 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+04/04/2021 05:54:11 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:54:11 PM - SeleniumDriver - INFO: Cannot click on the element with locator: btn_action locatorType: class
+04/04/2021 05:54:13 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/04/2021 05:57:20 PM - SeleniumDriver - INFO: testing inheritance
+04/04/2021 05:57:20 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/04/2021 05:57:20 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/04/2021 05:57:20 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/04/2021 05:57:20 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/04/2021 05:57:20 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/04/2021 05:57:20 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/04/2021 05:57:22 PM - SeleniumDriver - INFO: Element Found with locator: add-to-cart-sauce-labs-bike-light and locatorType: name
+04/04/2021 05:57:22 PM - SeleniumDriver - INFO: btn btn_primary btn_small btn_inventory
+04/04/2021 05:57:22 PM - SeleniumDriver - INFO: testing inheritance
+04/04/2021 05:57:25 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:57:25 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: user-name locatorType: id
+04/04/2021 05:57:28 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:57:28 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+04/04/2021 05:57:32 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:57:32 PM - SeleniumDriver - INFO: Cannot click on the element with locator: btn_action locatorType: class
+04/04/2021 05:57:34 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/04/2021 05:58:16 PM - SeleniumDriver - INFO: testing inheritance
+04/04/2021 05:58:16 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/04/2021 05:58:16 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/04/2021 05:58:16 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/04/2021 05:58:16 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/04/2021 05:58:16 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/04/2021 05:58:16 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/04/2021 05:58:18 PM - SeleniumDriver - INFO: Element Found with locator: add-to-cart-sauce-labs-bike-light and locatorType: name
+04/04/2021 05:58:18 PM - SeleniumDriver - INFO: btn btn_primary btn_small btn_inventory
+04/04/2021 05:58:18 PM - SeleniumDriver - INFO: testing inheritance
+04/04/2021 05:58:21 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:58:21 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: user-name locatorType: id
+04/04/2021 05:58:24 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:58:24 PM - SeleniumDriver - INFO: Cannot send data on the element with locator: password locatorType: id
+04/04/2021 05:58:27 PM - SeleniumDriver - INFO: Element not found
+04/04/2021 05:58:27 PM - SeleniumDriver - INFO: Cannot click on the element with locator: btn_action locatorType: class
+04/04/2021 05:58:30 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class

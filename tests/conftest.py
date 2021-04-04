@@ -26,6 +26,7 @@ def oneTimeSetUp(request, browser):
 def pytest_addoption(parser):
     parser.addoption("--browser")
     parser.addoption("--osType", help="Type of operating system")
+    parser.addoption("--dockerized")
 
 @pytest.fixture(scope="session")
 def browser(request):
@@ -34,3 +35,7 @@ def browser(request):
 @pytest.fixture(scope="session")
 def osType(request):
     return request.config.getoption("--osType")
+
+@pytest.fixture(scope="session")
+def dockerized(request):
+    return request.config.getoption("--dockerized")
