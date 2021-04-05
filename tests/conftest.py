@@ -62,6 +62,7 @@ def pytest_addoption(parser):
     parser.addoption("--browser")
     parser.addoption("--osType", help="Type of operating system")
     parser.addoption("--dockerized")
+    parser.addoption("--sec")
 
 @pytest.fixture(scope="session")
 def browser(request):
