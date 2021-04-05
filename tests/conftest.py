@@ -11,8 +11,41 @@ def setUp():
 
 @pytest.fixture(scope="class") #scope=module means it will run setUp before all the tests, and tearDown after all the tests
 def oneTimeSetUp(request, browser):
+    caps = [{
+        'os_version': '10',
+        'os': 'Windows',
+        'browser': 'chrome',
+        'browser_version': '89.0',
+        'name': 'Parallel Test1',  # test name
+        'build': 'browserstack-build-1'  # Your tests will be organized within this build
+    },
+    {
+        'os_version': '10',
+        'os': 'Windows',
+        'browser': 'firefox',
+        'browser_version': 'latest',
+        'name': 'Parallel Test2',
+        'build': 'browserstack-build-1'
+    },
+    {
+        'os_version': 'Big Sur',
+        'os': 'OS X',
+        'browser': 'safari',
+        'browser_version': 'latest',
+        'name': 'Parallel Test3',
+        'build': 'browserstack-build-1'
+    }]
 
-    wdf = WebDriverFactory(browser)
+    cap = caps[0]
+    if browser == 'Firefox':
+        cap = caps[1]
+        print("Firefox")
+    elif browser == 'Safari':
+        cap = caps[2]
+        print("Safari")
+    else:
+        print("Chrome")
+    wdf = WebDriverFactory(browser, cap)
     driver = wdf.get_web_driver_instance()
 
     if request.cls is not None:
@@ -20,7 +53,9 @@ def oneTimeSetUp(request, browser):
 
     yield driver
     #txt
+    driver.execute_script('browserstack_executor: {"action": "setSessionStatus", "arguments": {"status":"passed", "reason": "Tests matched!"}}')
     driver.quit()
+
     print("Running one time tearDown") #everything after yield runs after the test
 
 def pytest_addoption(parser):

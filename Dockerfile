@@ -18,5 +18,6 @@ RUN wget -O /tmp/chromedriver.zip http://chromedriver.storage.googleapis.com/`cu
 RUN unzip /tmp/chromedriver.zip chromedriver -d /usr/local/bin/
 
 RUN pip3 install --no-cache-dir -r requirements.txt
-RUN ["pytest", "-v", "tests/home/login_tests.py", "--junitxml=reports/result.xml"]
+RUN ["pytest", "-v", "tests/home/login_tests.py", "--browser=Safari", "--junitxml=reports/result.xml"]
+RUN ["pytest", "-v", "tests/home/login_tests.py", "--browser=Chrome", "--junitxml=reports/result.xml"]
 CMD tail -f /dev/null

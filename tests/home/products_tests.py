@@ -14,11 +14,11 @@ class ProductTests(unittest.TestCase):
         self.lp = LoginPage(self.driver)
         self.lp.login("standard_user", "secret_sauce")
 
-    @pytest.mark.run(order=2)
+    @pytest.mark.run(order=1)
     def test_filtering_pricelowtohigh(self):
         self.prodp.filter_by_visible_text("Price (low to high)")
 
-    @pytest.mark.run(order=1)
-    def test_testing_attributes(self):
-        self.prodp.get_attribute("add-to-cart-sauce-labs-bike-light", "name", "class")
+    #@pytest.mark.run(order=2)
+    #def test_testing_attributes(self):
+    #    self.prodp.get_attribute("add-to-cart-sauce-labs-bike-light", "name", "class")
 
