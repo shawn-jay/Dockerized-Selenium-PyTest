@@ -10,7 +10,7 @@ def setUp():
     print("Running method level tearDown") #everything after yield runs after the test
 
 @pytest.fixture(scope="class") #scope=module means it will run setUp before all the tests, and tearDown after all the tests
-def oneTimeSetUp(request, browser):
+def oneTimeSetUp(request, browser, secret):
     caps = [{
         'os_version': '10',
         'os': 'Windows',
@@ -45,7 +45,7 @@ def oneTimeSetUp(request, browser):
         print("Safari")
     else:
         print("Chrome")
-    wdf = WebDriverFactory(browser, cap)
+    wdf = WebDriverFactory(browser, cap, secret)
     driver = wdf.get_web_driver_instance()
 
     if request.cls is not None:
@@ -74,3 +74,7 @@ def osType(request):
 @pytest.fixture(scope="session")
 def dockerized(request):
     return request.config.getoption("--dockerized")
+
+@pytest.fixture(scope="session")
+def dockerized(request):
+    return request.config.getoption("--sec")

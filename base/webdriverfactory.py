@@ -17,9 +17,10 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class WebDriverFactory():
 
-    def __init__(self, browser, cap_given):
+    def __init__(self, browser, cap_given, secret):
         self.browser = browser
         self.cap_given = cap_given
+        self.secret = secret
 
     def get_web_driver_instance(self):
         desiredcap = self.cap_given
@@ -34,7 +35,7 @@ class WebDriverFactory():
         print("Running one time setUp")
         #driver = webdriver.Chrome(options=chrome_options)
         driver = webdriver.Remote(
-            command_executor='https://shawnjafari2:pKzy3HKjLxuXfC18yiTV@hub-cloud.browserstack.com/wd/hub',
+            command_executor=secret,
             desired_capabilities=desiredcap)
         print("Running tests on " + self.browser)
 
