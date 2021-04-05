@@ -35,7 +35,7 @@ class WebDriverFactory():
         print("Running one time setUp")
         #driver = webdriver.Chrome(options=chrome_options)
         driver = webdriver.Remote(
-            command_executor=self.secret,
+            command_executor='https://shawnjafari2:pKzy3HKjLxuXfC18yiTV@hub-cloud.browserstack.com/wd/hub',
             desired_capabilities=desiredcap)
         print("Running tests on " + self.browser)
 
