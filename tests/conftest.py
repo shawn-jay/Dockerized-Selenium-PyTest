@@ -77,5 +77,5 @@ def dockerized(request):
     return request.config.getoption("--dockerized")
 
 @pytest.fixture(scope="session")
-def dockerized(request):
+def secret(request):
     return request.config.getoption("--sec")
