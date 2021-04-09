@@ -18,7 +18,7 @@ WORKDIR /SeleniumFramework
 #RUN unzip /tmp/chromedriver.zip chromedriver -d /usr/local/bin/
 
 RUN pip3 install --no-cache-dir -r requirements.txt
-RUN ["pytest", "-v", "tests/home/login_test.py", "--browser=Safari", "--html=report.html"]
+RUN ["pytest", "-v", "tests/home/login_test.py", "--browser=Safari", "--junitxml=reports/result.xml"]
 #RUN ["pytest", "-v", "tests/home/login_tests.py", "--browser=Chrome", "--junitxml=reports/result.xml"]
 #RUN ["pytest", "-v", "tests/home/products_tests.py", "--browser=Firefox", "--junitxml=reports/result.xml"]
 CMD tail -f /dev/null

@@ -37,8 +37,11 @@ class WebDriverFactory():
         if self.remote == 'no':
             driver = webdriver.Chrome(options=chrome_options)
         else:
+            line = None
+            with open('data.txt') as f:
+                line = f.read()
             driver = webdriver.Remote(
-                command_executor='https://shawnjafari2:pKzy3HKjLxuXfC18yiTV@hub-cloud.browserstack.com/wd/hub',
+                command_executor='https://shawnjafari2:' + line + '@hub-cloud.browserstack.com/wd/hub',
                 desired_capabilities=desiredcap)
             print("Running tests on " + self.browser)
 
