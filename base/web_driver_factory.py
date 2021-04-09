@@ -41,6 +41,7 @@ class WebDriverFactory():
         else:
             line = None
             print(os.getcwd())
+            print(os.chdir('..'))
             print(os.path.abspath(os.sep))
             with open('data.txt') as f:
                 line = f.read()
