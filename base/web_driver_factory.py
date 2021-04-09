@@ -40,7 +40,7 @@ class WebDriverFactory():
             driver = webdriver.Chrome(options=chrome_options)
         else:
             line = None
-            os.getcwd()
+            print(os.getcwd())
             with open('data.txt') as f:
                 line = f.read()
             driver = webdriver.Remote(
