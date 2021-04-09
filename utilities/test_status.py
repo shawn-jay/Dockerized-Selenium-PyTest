@@ -1,8 +1,8 @@
 from utilities.custom_logger import customLogger
 import logging
 
-class TestStatus():
 
+class RunStatus:
     log = customLogger(logging.DEBUG)
 
     def __init__(self):

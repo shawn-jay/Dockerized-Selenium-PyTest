@@ -17,27 +17,30 @@ from selenium.webdriver.support import expected_conditions as EC
 
 class WebDriverFactory():
 
-    def __init__(self, browser, cap_given, secret):
+    def __init__(self, browser, cap_given, secret, remote):
         self.browser = browser
         self.cap_given = cap_given
         self.secret = secret
+        self.remote = remote
 
     def get_web_driver_instance(self):
         desiredcap = self.cap_given
         baseURL = "https://www.saucedemo.com/"
         driver = None
         chrome_options = Options()
-        dockerized = "True"
-        if(dockerized == "True"):
+        chrome_options.add_argument('log-level=3')
+        if self.remote != "no":
             chrome_options.add_argument("--headless")
             chrome_options.add_argument("--no-sandbox")
             chrome_options.add_argument("--disable-dev-shm-usage")
         print("Running one time setUp")
-        #driver = webdriver.Chrome(options=chrome_options)
-        driver = webdriver.Remote(
-            command_executor='https://shawnjafari2:pKzy3HKjLxuXfC18yiTV@hub-cloud.browserstack.com/wd/hub',
-            desired_capabilities=desiredcap)
-        print("Running tests on " + self.browser)
+        if self.remote == 'no':
+            driver = webdriver.Chrome(options=chrome_options)
+        else:
+            driver = webdriver.Remote(
+                command_executor='https://shawnjafari2:pKzy3HKjLxuXfC18yiTV@hub-cloud.browserstack.com/wd/hub',
+                desired_capabilities=desiredcap)
+            print("Running tests on " + self.browser)
 
         driver.maximize_window()
         driver.implicitly_wait(3)

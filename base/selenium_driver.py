@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import Select
 import logging
 
 
-class SeleniumDriver():
+class SeleniumDriver:
 
     log = cl.customLogger(logging.DEBUG)
 

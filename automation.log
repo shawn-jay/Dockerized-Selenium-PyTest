@@ -612,3 +612,511 @@
 04/05/2021 05:41:15 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
 04/05/2021 05:41:16 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
 04/05/2021 05:41:18 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/05/2021 07:04:46 PM - SeleniumDriver - INFO: testing inheritance
+04/05/2021 07:04:46 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/05/2021 07:04:46 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/05/2021 07:04:46 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/05/2021 07:04:46 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/05/2021 07:04:46 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/05/2021 07:04:46 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/05/2021 07:04:48 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/05/2021 07:06:34 PM - SeleniumDriver - INFO: testing inheritance
+04/05/2021 07:06:34 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/05/2021 07:06:34 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/05/2021 07:06:34 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/05/2021 07:06:34 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/05/2021 07:06:34 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/05/2021 07:06:34 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/05/2021 07:06:36 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/05/2021 07:08:36 PM - SeleniumDriver - INFO: testing inheritance
+04/05/2021 07:08:36 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/05/2021 07:08:36 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/05/2021 07:08:36 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/05/2021 07:08:36 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/05/2021 07:08:36 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/05/2021 07:08:36 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/05/2021 07:08:38 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 09:50:16 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:50:16 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:50:16 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:50:16 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:50:16 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:50:16 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:50:16 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:50:18 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 09:51:47 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:51:47 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:51:47 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:51:48 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:51:48 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:51:48 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:51:49 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:51:51 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 09:51:51 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 09:51:58 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:51:58 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:51:59 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:51:59 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:51:59 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:52:00 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:52:00 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:52:02 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 09:52:14 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:52:14 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:52:15 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:52:15 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:52:15 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:52:16 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:52:16 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:52:19 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 09:52:19 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 09:52:27 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:52:27 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:52:27 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:52:28 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:52:28 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:52:28 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:52:28 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:52:31 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 09:52:31 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 09:58:41 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:58:42 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:58:42 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:58:42 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:58:42 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:58:42 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:58:42 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:58:44 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 09:58:44 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 09:58:48 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:58:48 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:58:48 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:58:48 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:58:48 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:58:48 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:58:48 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:58:50 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 09:58:58 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:58:58 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:58:58 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:58:58 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:58:58 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:58:58 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:58:58 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:59:00 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 09:59:00 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 09:59:05 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 09:59:05 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 09:59:05 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 09:59:05 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 09:59:05 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 09:59:05 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 09:59:05 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 09:59:07 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 09:59:07 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:01:04 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:01:04 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:01:05 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:01:05 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:01:05 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:01:05 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:01:05 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:01:07 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:01:07 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:01:11 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:01:11 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:01:11 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:01:11 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:01:11 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:01:11 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:01:11 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:01:13 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 10:01:21 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:01:21 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:01:21 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:01:21 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:01:21 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:01:21 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:01:21 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:01:23 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:01:23 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:01:28 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:01:28 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:01:28 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:01:28 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:01:28 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:01:28 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:01:28 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:01:30 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:01:30 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:03:09 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:03:09 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:03:09 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:03:09 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:03:09 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:03:09 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:03:09 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:03:11 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 10:08:48 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:08:48 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:08:48 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:08:48 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:08:48 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:08:48 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:08:48 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:10:39 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:10:39 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:10:39 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:10:39 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:10:39 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:10:39 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:10:39 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:14:24 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:14:24 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:14:24 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:14:24 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:14:24 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:14:24 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:14:24 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:17:02 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:17:02 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:17:02 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:17:03 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:17:03 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:17:03 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:17:03 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:17:05 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 10:28:11 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:28:11 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:28:11 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:28:11 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:28:11 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:28:11 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:28:11 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:28:13 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:28:13 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:28:17 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:28:17 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:28:17 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:28:17 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:28:17 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:28:17 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:28:18 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:28:20 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:28:20 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:28:24 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:28:24 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:28:24 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:28:24 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:28:24 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:28:24 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:28:24 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:28:26 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 10:28:34 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:28:34 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:28:34 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:28:34 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:28:34 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:28:34 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:28:34 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:28:36 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:28:36 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:29:18 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:29:18 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:29:18 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:29:18 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:29:18 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:29:18 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:29:18 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:29:20 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:29:20 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:29:20 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:29:20 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:29:20 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:29:20 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:29:20 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:29:21 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:29:21 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:29:23 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:29:23 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:35:34 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:35:34 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:35:34 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:35:34 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:35:34 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:35:34 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:35:34 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:35:36 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:35:36 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:35:36 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:35:36 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:35:36 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:35:36 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:35:37 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:35:37 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:35:37 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:35:39 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:35:39 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:35:50 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:35:50 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:35:50 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:35:50 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:35:50 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:35:50 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:35:50 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:35:52 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:35:54 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:35:54 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:37:22 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:37:22 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:37:22 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:37:22 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:37:22 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:37:22 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:37:22 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:37:24 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:37:26 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:37:26 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:37:39 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:37:39 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:37:39 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:37:39 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:37:39 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:37:39 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:37:39 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:37:41 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:37:43 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:37:43 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:45:26 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:45:26 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:45:26 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:45:26 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:45:26 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:45:26 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:45:26 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:45:28 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:45:28 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:45:33 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:45:33 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:45:33 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:45:33 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:45:33 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:45:33 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:45:33 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:45:35 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:45:35 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:45:40 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:45:40 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:45:40 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:45:40 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:45:40 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:45:40 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:45:40 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:45:42 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 10:45:49 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:45:49 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:45:49 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:45:49 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:45:49 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:45:49 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:45:50 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:45:52 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:45:52 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:48:46 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:48:46 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:48:46 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:48:46 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:48:46 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:48:46 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:48:46 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:48:48 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:48:48 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:48:52 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:48:52 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:48:52 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:48:52 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:48:53 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:48:53 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:48:53 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:48:55 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 10:49:03 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:49:03 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:49:03 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:49:03 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:49:03 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:49:03 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:49:03 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:49:18 PM - SeleniumDriver - INFO: Element not found
+04/08/2021 10:49:18 PM - SeleniumDriver - INFO: Element not found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:53:19 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:53:19 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:53:19 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:53:19 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:53:19 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:53:19 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:53:19 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:53:33 PM - SeleniumDriver - INFO: Element not found
+04/08/2021 10:53:33 PM - SeleniumDriver - INFO: Element not found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:53:37 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:53:37 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:53:37 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:53:37 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:53:38 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:53:38 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:53:38 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:53:52 PM - SeleniumDriver - INFO: Element not found
+04/08/2021 10:56:46 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:56:46 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:56:46 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:56:46 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:56:46 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:56:46 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:56:46 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:56:48 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 10:56:48 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 10:56:52 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:56:52 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:56:52 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:56:52 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:56:52 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:56:52 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:56:52 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:56:54 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:56:54 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 10:57:00 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:57:00 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:57:00 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:57:00 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:57:00 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:57:00 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:57:00 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:57:02 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 10:57:10 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 10:57:10 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 10:57:10 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 10:57:10 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 10:57:10 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 10:57:10 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 10:57:10 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 10:57:12 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 10:57:12 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 11:03:36 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:03:36 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:03:36 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:03:37 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:03:37 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:03:37 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:03:37 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:03:39 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 11:03:39 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 11:03:43 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:03:43 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:03:43 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:03:43 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:03:43 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:03:43 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:03:43 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:03:45 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 11:05:54 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:05:54 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:05:54 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:05:54 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:05:54 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:05:54 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:05:54 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:05:56 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 11:05:56 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 11:10:22 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:10:22 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:10:22 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:10:22 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:10:22 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:10:22 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:10:22 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:10:24 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 11:10:24 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 11:10:29 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:10:29 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:10:29 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:10:29 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:10:29 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:10:29 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:10:29 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:10:31 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 11:10:31 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 11:10:35 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:10:35 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:10:36 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:10:36 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:10:36 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:10:36 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:10:36 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:10:38 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 11:10:45 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:10:45 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:10:45 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:10:45 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:10:45 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:10:45 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:10:45 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:10:47 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 11:10:47 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 11:12:37 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:12:37 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:12:37 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:12:37 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:12:37 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:12:37 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:12:37 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:12:39 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] and locatorType: xpath
+04/08/2021 11:12:39 PM - SeleniumDriver - INFO: Element Found with locator: //h3[@data-test='error'] locatorType: xpath
+04/08/2021 11:12:43 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:12:43 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:12:43 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:12:43 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:12:43 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:12:43 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:12:43 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:12:45 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 11:12:45 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath
+04/08/2021 11:12:50 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:12:50 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:12:50 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:12:50 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:12:50 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:12:50 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:12:50 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:12:52 PM - SeleniumDriver - INFO: Element Found with locator: product_sort_container and locatorType: class
+04/08/2021 11:12:59 PM - SeleniumDriver - INFO: testing inheritance
+04/08/2021 11:12:59 PM - SeleniumDriver - INFO: Element Found with locator: user-name and locatorType: id
+04/08/2021 11:12:59 PM - SeleniumDriver - INFO: Clicked on element with locator: user-name locatorType: id
+04/08/2021 11:12:59 PM - SeleniumDriver - INFO: Element Found with locator: password and locatorType: id
+04/08/2021 11:13:00 PM - SeleniumDriver - INFO: Clicked on element with locator: password locatorType: id
+04/08/2021 11:13:00 PM - SeleniumDriver - INFO: Element Found with locator: btn_action and locatorType: class
+04/08/2021 11:13:00 PM - SeleniumDriver - INFO: Clicked on element with locator: btn_action locatorType: class
+04/08/2021 11:13:02 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] and locatorType: xpath
+04/08/2021 11:13:02 PM - SeleniumDriver - INFO: Element Found with locator: //div[contains(text(), 'Labs Backpack')] locatorType: xpath

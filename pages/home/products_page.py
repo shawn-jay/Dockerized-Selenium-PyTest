@@ -8,11 +8,8 @@ class ProductPage(SeleniumDriver):
         super().__init__(driver)
         self.driver = driver
 
-    #Locators
+    # Locators
     _filter_sort = 'product_sort_container'
 
     def filter_by_visible_text(self, option_name):
         self.select_option(self._filter_sort, option_name, "class")
-
-
-

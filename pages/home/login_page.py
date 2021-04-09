@@ -14,7 +14,7 @@ class LoginPage(SeleniumDriver):
     _password_field = "password"
     _login_button = "btn_action"
 
-    #action methods
+    # action methods
     def click_login_link(self):
         self.element_click(self._login_link, locatorType="link")
 

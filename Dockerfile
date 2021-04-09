@@ -14,11 +14,11 @@ WORKDIR /SeleniumFramework
 
 # install chromedriver
 #RUN apt-get install -yqq unzip
-#RUN wget -O /tmp/chromedriver.zip http://chromedriver.storage.googleapis.com/`curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE`/chromedriver_linux64.zip
+#RUN wget -O /tmp/chromedriver.zip http://chromedriver.storage.googleapis.com/`curl -sS chromedriver.storage.googleapis.com/LATEST_RELEASE`/chromedriver_linux64.zdockerfile how to read ip
 #RUN unzip /tmp/chromedriver.zip chromedriver -d /usr/local/bin/
 
 RUN pip3 install --no-cache-dir -r requirements.txt
-RUN ["pytest", "-v", "tests/home/login_tests.py", "--browser=Safari", "--junitxml=reports/result.xml"]
-RUN ["pytest", "-v", "tests/home/login_tests.py", "--browser=Chrome", "--junitxml=reports/result.xml"]
-RUN ["pytest", "-v", "tests/home/products_tests.py", "--browser=Firefox", "--junitxml=reports/result.xml"]
+RUN ["pytest", "-v", "tests/home/login_tests.py", "--browser=Safari", "--html=report.html"]
+#RUN ["pytest", "-v", "tests/home/login_tests.py", "--browser=Chrome", "--junitxml=reports/result.xml"]
+#RUN ["pytest", "-v", "tests/home/products_tests.py", "--browser=Firefox", "--junitxml=reports/result.xml"]
 CMD tail -f /dev/null

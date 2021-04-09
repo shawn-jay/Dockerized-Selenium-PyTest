@@ -1,15 +1,16 @@
 from pages.home.login_page import LoginPage
-from utilities.test_status import TestStatus
+from utilities.test_status import RunStatus
 import unittest
 import pytest
 
-@pytest.mark.usefixtures("oneTimeSetUp", "setUp")
+
+@pytest.mark.usefixtures("one_time_setup", "method_setup")
 class LoginTests(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
-    def classSetup(self, oneTimeSetUp):
+    def classSetup(self, one_time_setup):
         self.lp = LoginPage(self.driver)
-        self.ts = TestStatus()
+        # self.ts = TestStatus()
 
     @pytest.mark.run(order=2)
     def test_validLogin(self):
@@ -23,8 +24,8 @@ class LoginTests(unittest.TestCase):
         result = self.lp.verify_login_failed()
         assert result == True
 
-    #@pytest.mark.run(order=3) # this should fail on purpose
-    #def test_titleOfWebsite(self):
+    # @pytest.mark.run(order=3) # this should fail on purpose
+    # def test_titleOfWebsite(self):
     #    result1 = self.lp.verify_title("Sauce Labs")
     #    self.ts.mark(result1, "Title is incorrect")
     #    #assert result1
