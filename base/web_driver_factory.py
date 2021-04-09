@@ -1,3 +1,5 @@
+import os
+
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from threading import Thread
@@ -38,6 +40,7 @@ class WebDriverFactory():
             driver = webdriver.Chrome(options=chrome_options)
         else:
             line = None
+            os.getcwd()
             with open('data.txt') as f:
                 line = f.read()
             driver = webdriver.Remote(
