@@ -1,18 +1,9 @@
-import os
-
-from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from threading import Thread
 from time import sleep
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
 
-# Purpose fo this test case is to create a webdriver instance
+# Purpose of this class is to create a webdriver instance. The fully initialized driver will be returned
 # based on the Browser configurations
 #
 #

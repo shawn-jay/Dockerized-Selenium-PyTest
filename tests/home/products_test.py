@@ -10,10 +10,10 @@ class ProductTests(unittest.TestCase):
 
     @pytest.fixture(autouse=True)
     def classSetup(self, one_time_setup):
-        self.prodp = ProductPage(self.driver)
         # self.ts = TestStatus()
         self.lp = LoginPage(self.driver)
         self.lp.login("standard_user", "secret_sauce")
+        self.prodp = ProductPage(self.driver)
 
     @pytest.mark.run(order=1)
     @pytest.mark.smoke
