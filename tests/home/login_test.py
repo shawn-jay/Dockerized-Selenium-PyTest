@@ -16,6 +16,7 @@ class LoginTests(unittest.TestCase):
     def test_validLogin(self):
         self.lp.login("standard_user", "secret_sauce")
         result = self.lp.verify_login_successful()
+        self.driver.save_screenshot("screenshot1.png")
         assert result == True
 
     @pytest.mark.run(order=1)

@@ -117,6 +117,8 @@ class SeleniumDriver:
         selectButton = Select(self.get_element(locator, locatorType))
 
         selectButton.select_by_visible_text(str(option_name))
+        #selectButton.select_by_index()
+        #selectButton.select_by_value()
         time.sleep(3)
 
     def get_attribute(self, locator, locatorType, attribute):

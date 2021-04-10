@@ -15,41 +15,8 @@ def method_setup():
 # scope=module means it will run setUp before all the tests, and tearDown after all the tests
 @pytest.fixture(scope="class")
 def one_time_setup(request, browser, secret, remote):
-    caps = [{
-        'os_version': '10',
-        'os': 'Windows',
-        'browser': 'chrome',
-        'browser_version': '89.0',
-        'name': 'Chrome Test 1',  # test name
-        'build': 'browserstack-build-1'  # Your tests will be organized within this build
-    },
-    {
-        'os_version': '10',
-        'os': 'Windows',
-        'browser': 'firefox',
-        'browser_version': 'latest',
-        'name': 'Firefox Test 1',
-        'build': 'browserstack-build-1'
-    },
-    {
-        'os_version': 'Big Sur',
-        'os': 'OS X',
-        'browser': 'safari',
-        'browser_version': 'latest',
-        'name': 'Safari Test 1',
-        'build': 'browserstack-build-1'
-    }]
 
-    cap = caps[0]  # default use Chrome
-    if browser == 'Firefox':
-        cap = caps[1]
-        print("Firefox")
-    elif browser == 'Safari':
-        cap = caps[2]
-        print("Safari")
-    else:
-        print("Chrome")
-    wdf = WebDriverFactory(browser, cap, secret, remote)
+    wdf = WebDriverFactory(browser, secret, remote)
     driver = wdf.get_web_driver_instance()
 
     if request.cls is not None:
